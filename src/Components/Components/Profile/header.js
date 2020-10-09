@@ -6,7 +6,7 @@ import FormControl from "react-bootstrap/FormControl";
 import Button from "react-bootstrap/Button";
 import "../style.css";
 
-export const Header = () => {
+const Header = () => {
     return (
       <div>
         <>
