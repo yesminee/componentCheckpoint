@@ -2,10 +2,8 @@ import React from "react";
 import { FaLinkedinIn, FaMailBulk, FaGit, FaFacebook, FaInstagram, FaTwitter, FaGoogle } from "react-icons/fa";  //yarn add react-icons
 import Card from "react-bootstrap/Card";
 import '../style.css';
-//import { IconContext } from "react-icons";
 
-
-export const Footer =() =>{
+const Footer =() =>{
     return (
       <div className="foot">
         <Card className="bg-dark text-white">
